@@ -8,8 +8,8 @@
 </div> -->
 
 <div align="center">
-  <img height="300" width="auto" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="image"  />
-</div>
+<!--   <img height="300" width="auto" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="image"  />
+</div> -->
 <h1 align="center">Hi 👋, I'm Prayas Baral</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas121&label=Profile%20views&color=0e75b6&style=flat" alt="prayas121" /> </p>
 <h3 align="left">Connect with me:</h3>
