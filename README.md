@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas121&label=Profile%20views&color=0e75b6&style=flat" alt="prayas121" /> </p>
 
 <div align="center">
-  <img height="300" width="auto" src=https://user-images.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fecoknows&psig=AOvVaw20UKP9d6Z_9Gq12F71WEHm&ust=1709352110575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiV3_6W0oQDFQAAAAAdAAAAABAE" alt="image"  />
+  <img height="300" width="auto" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fecoknows&psig=AOvVaw20UKP9d6Z_9Gq12F71WEHm&ust=1709352110575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiV3_6W0oQDFQAAAAAdAAAAABAE" alt="image"  />
 </div>
 
 
