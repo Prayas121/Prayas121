@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prayas Baral</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas121&label=Profile%20views&color=0e75b6&style=flat" alt="prayas121" /> </p>
 
+<div align="center">
+  <img height="300" width="auto" src="https://user-images.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding&psig=AOvVaw0PDr5rXrCrHuHqxSaUXXW8&ust=1709351709539000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDDmr2V0oQDFQAAAAAdAAAAABAE" alt="image"  />
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayas121" alt="prayas121" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
