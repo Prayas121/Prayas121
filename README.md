@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas121&label=Profile%20views&color=0e75b6&style=flat" alt="prayas121" /> </p>
 
 <div align="center">
-  <img height="300" width="auto" src="a![971](https://github.com/Prayas121/Prayas121/assets/126090077/26bff838-226e-419a-bed7-64664edcd2b2)"Alt="image"  />
+  <img height="300" width="auto" src="https://github.com/Prayas121/Prayas121/assets/126090077/26bff838-226e-419a-bed7-64664edcd2b2"Alt="image"  />
 </div>
 
 
